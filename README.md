@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/siddharthmohapatra-dataanalyst/" target="blank"><img src="https://img.shields.io/twitter/follow/sidds2000?logo=twitter&style=for-the-badge" alt="SID" /></a> </p>
 
-- 🔭 My recent personal project that I work on [Real Time ECommerce Data Processing and Analytics using Medallion architecture on Azure Cloud](https://github.com/SIDDHARTH107/Real-Time-E-Commerce-Data-Processing-and-Analytics-using-Medallion-architecture-on-Azure-Cloud)
+- 🔭 My recent personal project that I work on [LLM Data Pipeline](https://github.com/SIDDHARTH107/MLOps_Lab6_LLMDataPipeline)
 
 - 🌱 I’m currently learning **about Microsoft Azure services, Medallion Architecture, and statistics.**
 
