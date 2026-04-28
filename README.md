@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://www.linkedin.com/in/siddharthmohapatra-dataanalyst/" target="blank"><img src="https://img.shields.io/twitter/follow/sidds2000?logo=twitter&style=for-the-badge" alt="SID" /></a> </p>
 
-- 🔭 My recent personal project that I work on [LLM Data Pipeline](https://github.com/SIDDHARTH107/MLOps_Lab6_LLMDataPipeline)
+- 🔭 My recent personal project that I work on [TA Help Scout Alert System](https://github.com/SIDDHARTH107/TA-Help-Scout-Alert-System)
 
 - 🌱 I’m currently learning **about Microsoft Azure services, Medallion Architecture, and statistics.**
 
